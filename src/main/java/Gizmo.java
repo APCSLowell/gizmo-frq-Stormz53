@@ -1,3 +1,4 @@
+
 public class Gizmo
 {
   private String maker;
